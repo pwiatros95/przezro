@@ -1,0 +1,36 @@
+
+
+.kwadraty {
+    width: 300px;
+    height: 500px;
+    background-color: #f5f5dd;
+}
+
+
+.kwadrat1 {
+    width: 100px;
+    height: 100px; 
+    background-color: rgba(3, 2, 2, 0);
+    margin-bottom: 15px;
+}
+.kwadrat2 {   
+    width: 100px;
+    height: 100px; 
+    background-color: rgba(7, 6, 6, 0);
+    opacity: 1;
+    margin-bottom: 15px;
+}
+.kwadrat3 {
+        width: 100px;
+        height: 100px; 
+        background-color: rgba(26, 23, 23, 0);
+        opacity: 0.7;
+        margin-bottom: 15px;
+}
+.kwadrat4 {  
+        width: 100px;
+        height: 100px; 
+        background-color: rgba(49, 47, 47, 0);
+        opacity: 0.5;
+        margin-bottom: 15px;
+    }

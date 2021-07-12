@@ -10,27 +10,27 @@
 .kwadrat1 {
     width: 100px;
     height: 100px; 
-    background-color: rgba(3, 2, 2, 0);
+    background-color: rgba(3, 2, 2, 1);
     margin-bottom: 15px;
 }
 .kwadrat2 {   
     width: 100px;
     height: 100px; 
-    background-color: rgba(7, 6, 6, 0);
-    opacity: 1;
+    background-color: rgba(7, 6, 6, 1);
+    opacity: 0.8;
     margin-bottom: 15px;
 }
 .kwadrat3 {
         width: 100px;
         height: 100px; 
-        background-color: rgba(26, 23, 23, 0);
-        opacity: 0.7;
+        background-color: rgba(26, 23, 23, 1);
+        opacity: 0.6;
         margin-bottom: 15px;
 }
 .kwadrat4 {  
         width: 100px;
         height: 100px; 
-        background-color: rgba(49, 47, 47, 0);
-        opacity: 0.5;
+        background-color: rgba(49, 47, 47, 1);
+        opacity: 0.4;
         margin-bottom: 15px;
     }
